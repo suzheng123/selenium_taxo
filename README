@@ -1,0 +1,15 @@
+Folder content:
+
+.py files are my selenium test codes:
+	login.py: log in the website with user email and password
+	getInfo.py: reads .txt file and convert the file into dictionary or list
+	create.py: run the create analysis as test case designed
+	delete.py: run the delete analysis as test case designed
+	edit.py: run the edit analysis as test designed
+	test_log.py: output .txt file to log the test in the same directory
+
+.txt files:
+	webinfo: contains web elements, such as css-selector, xpath, id
+	ids: contains ids that to input for test
+
+Documentation_videos.zip contains videos of running create, delete, and edit test in FireFox browser.
